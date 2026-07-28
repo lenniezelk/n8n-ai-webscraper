@@ -2,7 +2,7 @@
 
 An automated n8n workflow that accepts a web URL via a POST webhook, extracts the main article text, summarizes the content using an LLM, and returns the response synchronously.
 
-![Workflow Preview](images/workflow-preview.png)
+![Workflow Preview](ai-webscraper.png)
 
 ## 📋 Features
 
